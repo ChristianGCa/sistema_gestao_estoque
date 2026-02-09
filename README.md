@@ -1,6 +1,6 @@
 # Sistema de Gestão de Estoque (SGE)
 
-Esta é uma aplicação web Django 6.0.1 projetada para gerenciamento de estoque feita como parte do curso Django Master da PycodeBr.
+Esta é uma aplicação web Django 6.0.1 com Bootstrap projetada para gerenciamento de estoque feita como parte do curso Django Master da PycodeBr.
 
 ## Funcionalidades
 *   Gerencia marcas, categorias, fornecedores e produtos.
